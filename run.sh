@@ -1,5 +1,5 @@
 #!/bin/sh
 
-clang -Wall -lm -o "./dist/$1" "./src/$1.c"
+make
 
 "./dist/$1"
