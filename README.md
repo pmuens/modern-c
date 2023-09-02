@@ -4,6 +4,10 @@ Code written while reading the book ["Modern C"](https://www.manning.com/books/m
 
 ## Setup
 
+1. `git clone <url>`
+2. `asdf install`
+3. `make` or `./run.sh <name>`
+
 ## Useful Commands
 
 ```sh
